@@ -1,0 +1,22 @@
+body{
+    text-align: center;
+    font-size: 22px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 50px;
+}
+img{
+    width: 80vw;
+    height: 75vh;
+    border: 0;
+}
+.p1{
+    text-align: justify;
+}
+a{
+    text-decoration:none ;
+    color: rgb(25, 25, 216);
+}
+li{
+    text-align: left;
+    
+}
